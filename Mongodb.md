@@ -1,4 +1,4 @@
-# MongoDB Cheat Sheet
+# MongoDB
 
 ## Show All Databases
 
